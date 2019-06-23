@@ -1,26 +1,22 @@
 
 
-# Foobar
+# Git Compar
 
 Comparador de repositórios do GitHub
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [npm](https://www.npmjs.com/get-npm)
 
 ```bash
-pip install foobar
+npm install
 ```
 
 ## Usage
 
 
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+```bash
+npm start
 ```
 
 ## Contributing
@@ -29,4 +25,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[APACHE](https://choosealicense.com/licenses/apache/)
+[Apache License 2.0](https://choosealicense.com/licenses/apache/)
