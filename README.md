@@ -2,7 +2,7 @@
 
 # Git Compar
 
-Comparador de repositórios do GitHub
+GitHub Repository Comparator
 
 ## Installation
 
