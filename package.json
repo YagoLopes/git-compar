@@ -1,10 +1,11 @@
 {
-  "name": "app02",
+  "name": "git-compar",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
-    "moment": "^2.22.2",
+    "font-awesome": "^4.7.0",
+    "moment": "^2.24.0",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-scripts": "1.1.4",
@@ -24,5 +25,6 @@
     "eslint-plugin-react": "^7.11.1"
   },
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "author": "Yago Lopes Lázaro"
 }
