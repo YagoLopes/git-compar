@@ -2,7 +2,7 @@
 
 # Git Compar
 
-GitHub Repository Comparator
+![git-compar](https://github.com/YagoLopes/git-compar/blob/master/git-compar.gif)
 
 ## Installation
 
