@@ -6,17 +6,17 @@
 
 ## Installation
 
-Use the package manager [npm](https://www.npmjs.com/get-npm)
+Use the package manager [yarn](https://yarnpkg.com/pt-BR/)
 
 ```bash
-npm install
+yarn
 ```
 
 ## Usage
 
 
 ```bash
-npm start
+yarn start
 ```
 
 ## Contributing
