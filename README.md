@@ -4,6 +4,8 @@
 
 ![git-compar](https://github.com/YagoLopes/git-compar/blob/master/git-compar.gif)
 
+If you want to take a look on all screens of the App, they are [here](https://uztd1.csb.app/).
+
 ## Installation
 
 Use the package manager [yarn](https://yarnpkg.com/pt-BR/)
